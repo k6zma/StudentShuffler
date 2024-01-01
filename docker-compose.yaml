@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  telegram_bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python src/main.py
