@@ -9,9 +9,9 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-![GitHub Issues](https://img.shields.io/github/issues/k6zma/StudentShuffler_bot.svg)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/k6zma/StudentShuffler_bot.svg)
-![Stars](https://img.shields.io/github/stars/k6zma/StudentShuffler_bot.svg)
+![GitHub Issues](https://img.shields.io/github/issues/k6zma/StudentShuffler.svg)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/k6zma/StudentShuffler.svg)
+![Stars](https://img.shields.io/github/stars/k6zma/StudentShuffler.svg)
 
 </div>
 
